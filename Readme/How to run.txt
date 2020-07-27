@@ -1,0 +1,16 @@
+Hello Welcome to College Portal Project..  Desing and Developed by Mr MD Rizwan MCA 5th Semester AIIS College....
+
+
+
+Steps to Install
+1. Install Wamp/ Xamp Server in yuor PC/Laptop
+2. copy and Paste "College Portal" Folder to www folder in C drive 
+3. open any browser eg. opera mini, google chrome, IE etc
+4. type localhost on search bar 
+5. open phpmyadmin 
+6. Create new Database as "college_portal" and import College Portal database 
+7. run college portal on wamp/xamp
+8. Admin login Id: Admin123	password: 123456
+9. ENJOY!!!!
+
+Thank You
